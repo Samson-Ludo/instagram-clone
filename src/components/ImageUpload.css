@@ -1,0 +1,16 @@
+.imageUpload {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin: 10px auto;
+  background-color: white;
+  border-top: 1px solid lightgray;
+}
+
+.imageUpload-progress {
+  width: 100%;
+}
+
+.imageUpload-textarea {
+  height: 300px;
+}
